@@ -20,6 +20,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
+            title: "NicoUi",
             template: 'index.html'
         })
     ]
