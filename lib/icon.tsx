@@ -5,7 +5,7 @@ interface IconProps {
 }
 
 /**
- * @author: RenLishisan
+ * @author: 👨‍🔧‍ RenLishisan
  * @method: Icon
  * @description: 图标组件，该组件必须接受一个Name
  * @param: name
